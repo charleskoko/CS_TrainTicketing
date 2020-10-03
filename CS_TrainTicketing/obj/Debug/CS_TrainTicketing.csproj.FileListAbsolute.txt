@@ -1,0 +1,9 @@
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\bin\Debug\CS_TrainTicketing.exe.config
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\bin\Debug\CS_TrainTicketing.exe
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\bin\Debug\CS_TrainTicketing.pdb
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\obj\Debug\CS_TrainTicketing.csprojAssemblyReference.cache
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\obj\Debug\CS_TrainTicketing.Form1.resources
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\obj\Debug\CS_TrainTicketing.Properties.Resources.resources
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\obj\Debug\CS_TrainTicketing.csproj.GenerateResource.cache
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\obj\Debug\CS_TrainTicketing.exe
+C:\Users\jepht\source\repos\CS_TrainTicketing\CS_TrainTicketing\obj\Debug\CS_TrainTicketing.pdb
